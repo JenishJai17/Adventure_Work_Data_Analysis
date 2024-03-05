@@ -14,7 +14,7 @@ Adventure Works is a company whose dataset has been used in this analysis. The p
 
 1. **Data Cleaning:** Checked for duplicate values, errors, and patterns.
 2. **Data Transformation:** Added extra columns to calculate certain measures like extracting year, the start of the month, quarter, start of the week, etc.
-3. **Data Modeling:** Built relationships of each dimension table to fact tables. Have a look [Here](https://github.com/JenishJai17/Adventure_Work_Data_Analysis/blob/main/AdventureWorks%20Report.pbix).
+3. **Data Modeling:** Built relationships of each dimension table to fact tables. Have a look [Here](https://github.com/JenishJai17/Adventure_Work_Data_Analysis/blob/main/AdventureWorks%20Data%20Model.pdf).
 4. **Data Manipulation:** Created calculated columns and measures like total returns, return rate, total orders, profit target, order target, etc.
 5. **Data Visualization:** Built interactive dashboards with KPIs, trends, charts, matrix, and other tools.
 
@@ -53,7 +53,7 @@ Click [here](https://github.com/JenishJai17/Adventure_Work_Data_Analysis/blob/ma
 
 ## Snapshot
 
-For more Information Kindly view the snapshot of the dashboard [here](https://github.com/JenishJai17/Adventure_Work_Data_Analysis/edit/main/README.md)
+For more Information Kindly view the snapshot of the dashboard [here](https://github.com/JenishJai17/Adventure_Work_Data_Analysis/blob/main/AdventureWorks%20Report.pdf)
 
 
 ---
